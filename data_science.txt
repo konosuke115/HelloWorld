@@ -1,0 +1,45 @@
+ 
+人工知能とデータサイエンティストの役回り
+
+情報・システム研究機構　統計数理研究所　樋口知之さん
+
+https://www.msi.co.jp/userconf/2015/pdf/muc15.pdf
+
+ 
+
+ビッグデータが拓く新しい科学研究の在り方　データ中心科学リサーチコモンズ
+
+情報・システム研究機構　北川源四郎さん
+
+http://www.ism.ac.jp/~nobuo/BIGDATA/20130527-Kitagawa.pdf
+
+ 
+
+深層学習は世界をどのように変えられるのか
+
+Preferred Networks 岡野原　大輔さん
+
+http://ibisml.org/archive/ibis2016/ibis2016okanohara_wo_video.pdf
+
+ 
+
+データサイエンティスト協会プレスリリース資料（2014年12月10日）
+
+データサイエンティスト協会、データサイエンティストのミッション、スキルセット、定義、スキルレベルを発表
+
+一般社団法人データサイエンティスト協会
+
+http://www.datascientist.or.jp/news/2014/pdf/1210.pdf
+
+ 
+
+社会人向け講座「データ分析者養成コース」
+
+機械学習技術とその数理基盤（第１部）
+
+東京大学大学院情報理工学研究科　鈴木大慈さん
+
+http://ibis.t.u-tokyo.ac.jp/suzuki/lecture/2018/ML_Gairon/ML_Gairon_01.pdf
+   
+  
+  
